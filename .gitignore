@@ -10,4 +10,6 @@ user-dirs.dirs
 user-dirs.locale
 xfce4
 mozilla
-
+gtk*
+nwg-look
+xsettingsd
