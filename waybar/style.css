@@ -1,0 +1,20 @@
+
+* {
+	font-family: "JetBrainsMonoNerdFont";
+	color: #dddddd;
+}
+
+window#waybar {
+	background-color: transparent;
+}
+
+window#waybar > box {
+	background-color: #2e3440;
+	border-radius: 8px;
+}
+
+#network, #pulseaudio, #battery, #backlight, #clock, #cpu, #memory, #temperature {
+	padding: 0px 20px;
+	border-radius: 8px;
+	background-color: #3b4252;
+}
